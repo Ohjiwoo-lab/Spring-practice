@@ -7,6 +7,6 @@
     <title>${title}</title>
 </head>
 <body>
-<h2>${content}</h2>
+<h2>${content} 안녕하세요</h2>
 </body>
 </html>
